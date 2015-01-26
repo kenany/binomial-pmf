@@ -1,6 +1,6 @@
 {
   "name": "binomial-pmf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Binomial probability mass function",
   "keywords": [
     "math",
