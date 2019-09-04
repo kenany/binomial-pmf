@@ -18,17 +18,18 @@
     "test": "test"
   },
   "scripts": {
-    "pretest": "eslint *.js test/*.js",
-    "test": "tape test/index.js"
+    "lint": "eslint *.js test/*.js",
+    "test": "tape test/index.js",
+    "posttest": "npm run lint"
   },
   "dependencies": {
     "choose": "^0.0.0"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "6.0.0",
+    "@kenan/eslint-config": "7.0.0",
     "@kenan/renovate-config": "1.1.1",
     "almost-equal": "1.1.0",
-    "eslint": "5.16.0",
+    "eslint": "6.3.0",
     "lodash.isfunction": "3.0.9",
     "tape": "4.11.0"
   }
