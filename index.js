@@ -1,4 +1,4 @@
-var binomial = require('choose');
+const binomial = require('choose');
 
 /**
  * @param {number} k
