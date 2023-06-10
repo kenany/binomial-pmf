@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/kenany/binomial-pmf/compare/3.0.0...3.0.1) (2023-06-10)
+
+
+### Bug Fixes
+
+* update repository field ([df0b9da](https://github.com/kenany/binomial-pmf/commit/df0b9da9e83890567c115d3f0e2b436b7ed177f0))
+
 ## [3.0.0](https://github.com/KenanY/binomial-pmf/compare/2.0.0...3.0.0) (2023-06-10)
 
 
