@@ -5,7 +5,7 @@ Binomial probability mass function.
 ## Example
 
 ``` javascript
-var pmf = require('binomial-pmf');
+const pmf = require('binomial-pmf');
 
 pmf(2, 3, 0.7);
 // => 0.441
@@ -20,7 +20,7 @@ $ npm install binomial-pmf
 ## API
 
 ``` javascript
-var pmf = require('binomial-pmf');
+const pmf = require('binomial-pmf');
 ```
 
 ### `pmf(k, n, p)`
