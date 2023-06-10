@@ -6,7 +6,7 @@
     "math",
     "statistics"
   ],
-  "repository": "KenanY/binomial-pmf",
+  "repository": "github:kenany/binomial-pmf",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
