@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/kenany/binomial-pmf/compare/3.0.1...4.0.0) (2023-09-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([0c170d4](https://github.com/kenany/binomial-pmf/commit/0c170d4b34ea89be4774b5ee7987c13a916c5c9d))
+
 ## [3.0.1](https://github.com/kenany/binomial-pmf/compare/3.0.0...3.0.1) (2023-06-10)
 
 
